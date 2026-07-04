@@ -25,3 +25,5 @@ Industrial Engineering student at UTEC | Top 10% | Data & ML enthusiast
 🤝 Open to collaborating on fintech, data-driven, and innovation-focused hackathons.
 
 📫 rodolfo.garriazorivera2003@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/rodolfo-daniel-garriazo-rivera)
