@@ -18,7 +18,7 @@ Industrial Engineering student at UTEC | Top 10% | Data & ML enthusiast
 
 🔍 I build predictive models to solve real-world problems — from fraud detection to inventory optimization.
 
-🛠️ Tools: Python, Streamlit, CatBoost, Power BI, Tableau, RStudio.
+🛠️ Tools: Python, Streamlit, CatBoost, Power BI, Tableau, RStudio, MySQL.
 
 🌱 Currently diving deeper into AI and advanced analytics.
 
