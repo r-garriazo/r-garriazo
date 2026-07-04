@@ -1,4 +1,4 @@
-## About me 👋
+## 👋 Hi, I'm Rodolfo Garriazo
 
 <!--
 **r-garriazo/r-garriazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Data analitycs and AI learning model prediction creation.
-- 🤝 I’m looking to collaborate on Hackathones focused on finance and technological innovation.
-- 💬 Ask me about data analysis, Python, and turning data into operational value.
-- 📫 How to reach me: rodolfo.garriazorivera2003@gmail.com
-- ⚡ Fun fact: I’ve helped remove over 4.7 tons of waste from a coastal wetland.
+Industrial Engineering student at UTEC | Top 10% | Data & ML enthusiast
+
+🔍 I build predictive models to solve real-world problems — from fraud detection to inventory optimization.
+
+🛠️ Tools: Python, Streamlit, CatBoost, Power BI, Tableau, RStudio.
+
+🌱 Currently diving deeper into AI and advanced analytics.
+
+🤝 Open to collaborating on fintech, data-driven, and innovation-focused hackathons.
+
+📫 rodolfo.garriazorivera2003@gmail.com
