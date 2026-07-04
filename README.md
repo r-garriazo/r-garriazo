@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Data analitycs and AI learning model prediction creation.
-- 👯 I’m looking to collaborate on Hackathones focused on finance and technological innovation.
+- 🤝 I’m looking to collaborate on Hackathones focused on finance and technological innovation.
+- 💬 Ask me about data analysis, Python, and turning data into operational value.
+- 📫 How to reach me: rodolfo.garriazorivera2003@gmail.com
+- ⚡ Fun fact: I’ve helped remove over 4.7 tons of waste from a coastal wetland.
